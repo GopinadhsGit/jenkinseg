@@ -11,7 +11,9 @@ namespace MethodsEg
     {
           int DisplayAge(int age)
         {
+            int i = 5;
             return age;
+
         }
 
 
